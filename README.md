@@ -9,10 +9,12 @@ const example3 = floatToFixedString(1.5555, 2)  // returns "1.55"
 console.log(example1, example2, example3)
 ```
 ## Syntax  
-`function floatToFixedString` (  
-  &emsp;&emsp;**[In] Number** number,  
-  &emsp;&emsp;**[In] Number** decimalPlaces  
+```Javascript
+function floatToFixedString (  
+  [In] Number number,  
+  [In] Number decimalPlaces  
 );
+```
 
 ## Parameters
  &emsp;`[In] number`  
