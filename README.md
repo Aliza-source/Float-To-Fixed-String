@@ -15,21 +15,21 @@ console.log(example1, example2, example3)
 );
 
 ## Parameters
-`[In] number`  
+ &emsp;`[In] number`  
 
-Type:&ensp;**Number**  
+ &emsp;Type:&ensp;**Number**  
 
-The floating-point number to convert to a fixed-point string.
+ &emsp;The floating-point number to convert to a fixed-point string.
 
 
-`[In] decimalPlaces`  
+ &emsp;`[In] decimalPlaces`  
 
-Type:&ensp;**Number**  
+ &emsp;Type:&ensp;**Number**  
 
-The desired number of decimal places in the fixed-point string.
+ &emsp;The desired number of decimal places in the fixed-point string.
 
 ## Return value
 
-Type:&ensp;**String**  
+ &emsp;Type:&ensp;**String**  
 
-The converted fixed-point string representation of the input number.
+ &emsp;The converted fixed-point string representation of the input number.
